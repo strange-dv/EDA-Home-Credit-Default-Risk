@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+application_train.csv
+application_test.csv
+output.csv
